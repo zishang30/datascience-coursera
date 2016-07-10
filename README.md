@@ -1,2 +1,2 @@
 # datascience-coursera
- a test file for datascience course
+ datascience would be the core methodlogy in cutting-age world and medical research.
